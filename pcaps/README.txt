@@ -387,8 +387,6 @@ set2.pcap:
     IPv6 - .35%
     ARP - .12%
 
-    The most popular protocol is HTTP, discounting TCP because of the fact that it is only a transport protocol.
-    FTP-Data was also a contender, with 11.45%, but that is all data, not an actual protocol.
+    The most popular protocol is HTTP, discounting TCP because of the fact that it is only a transport protocol. FTP-Data was also a contender, with 11.45%, but that is all data, not an actual protocol.
 
-  20. I found it interesting that IPsec was encapsulated in UDP, since UDP has no garauntee of delivery, and it
-      would make sense to want something you secured to be ensured of delivery.
+  20. I found it interesting that IPsec was encapsulated in UDP, since UDP has no garauntee of delivery, and it would make sense to want something you secured to be ensured of delivery.
