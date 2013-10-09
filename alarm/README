@@ -1,0 +1,10 @@
+Assignment 2 README - Chris Piraino
+
+All parts of the assignment should be implemented correctly.
+
+My alarm.rb takes in an optional argument, the interface name,
+and if no interface name is provided the script defaults to
+'eth0'.
+
+E.g. ruby alarm.rb lo
+     ruby alarm.rb
