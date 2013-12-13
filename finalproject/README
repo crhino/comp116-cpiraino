@@ -16,3 +16,5 @@
 
   run.sh uses create_network.py and storage_attack.py to run a full simulation and
   clean-up everything so that the user can just sit and watch.
+
+  Uses the Entangled Kademlia implementation.
